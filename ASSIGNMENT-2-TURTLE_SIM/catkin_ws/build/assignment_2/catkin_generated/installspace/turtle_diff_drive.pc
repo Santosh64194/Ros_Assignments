@@ -1,0 +1,8 @@
+prefix=/home/santosh/catkin_ws/install
+
+Name: turtle_diff_drive
+Description: Description of turtle_diff_drive
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

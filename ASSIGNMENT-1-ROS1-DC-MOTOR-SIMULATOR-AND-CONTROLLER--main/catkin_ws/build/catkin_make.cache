@@ -1,0 +1,2 @@
+motor_control
+-DCATKIN_DEVEL_PREFIX=/home/santosh/assignment_1/ASSIGNMENT-1-ROS1-DC-MOTOR-SIMULATOR-AND-CONTROLLER--main/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/santosh/assignment_1/ASSIGNMENT-1-ROS1-DC-MOTOR-SIMULATOR-AND-CONTROLLER--main/catkin_ws/install -G Unix Makefiles
